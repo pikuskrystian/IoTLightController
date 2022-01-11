@@ -28,7 +28,7 @@ To run this project, download .zip file, and connect hardware like on the photo 
 
 ![](./docs/CableSetup.png)
 
-The the expander module connect RGB diode like this:
+The expander module connect RGB diode like this:
 
 ![](./docs/CableExpander.png)
 
