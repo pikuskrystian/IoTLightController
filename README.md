@@ -32,3 +32,6 @@ The expander module connect RGB diode like this:
 
 ![](./docs/CableExpander.png)
 
+## QtCreator Aplication:
+
+![](./docs/LightController_qtAPP.png)
